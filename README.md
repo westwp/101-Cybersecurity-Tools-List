@@ -1388,3 +1388,91 @@ HIDDENeyE is a tool that can be used to monitor and capture screenshots of websi
 **Who it is useful for:** HIDDENeyE is useful for security researchers, penetration testers, and anyone who wants to protect themselves from cybercrime.
 
 Our Cybersecurity Tool Guide, a compilation of 101+ indispensable tools, empowers professionals with the knowledge and resources needed to safeguard their digital landscapes. By understanding, selecting, and effectively using these tools, businesses of all sizes can rise to the challenge of cybersecurity, protecting their data, operations, and reputation. Stay proactive, stay informed, and stay secure – the future of your digital security is in your hands.
+
+
+**Here's the simplified table of details with the tool links:**
+
+| **Category**                                     | **Tool name**             | **Tool Link**             |
+|--------------------------------------------------|---------------------------|---------------------------|
+| **Network Scanning and Enumeration**             |                           |                           |
+|                                                | Nmap                      | [Nmap](https://nmap.org/) |
+|                                                | Recon-ng                  | [Recon-ng](https://github.com/lanmaster53/recon-ng) |
+|                                                | Shodan                    | [Shodan](https://www.shodan.io/) |
+|                                                | TheHarvester              | [TheHarvester](https://github.com/laramies/theHarvester) |
+|                                                | Sublist3r                 | [Sublist3r](https://github.com/aboul3la/Sublist3r) |
+|                                                | SpiderFoot                | [SpiderFoot](https://intel471.com/solutions/attack-surface-protection) |
+|                                                | Netdiscover               | [Netdiscover](https://github.com/netdiscover-scanner/netdiscover) |
+|                                                | Gobuster                  | [Gobuster](https://github.com/OJ/gobuster) |
+|                                                | Amass                     | [Amass](https://github.com/owasp-amass/amass) |
+| **Open Source Intelligence (OSINT)**             |                           |                           |
+|                                                | Maltego                   | [Maltego](https://www.maltego.com/) |
+|                                                | OSINT Framework           | [OSINT Framework](https://osintframework.com/) |
+|                                                | Google Dorks              | [Google Dorks](https://www.exploit-db.com/google-hacking-database) |
+|                                                | Infoga                    | [Infoga](https://github.com/m4ll0k/Infoga) |
+|                                                | Censys                    | [Censys](https://censys.com/) |
+|                                                | ThreatMiner               | [ThreatMiner](https://www.threatminer.org/) |
+| **Vulnerability Scanning and Assessment**       |                           |                           |
+|                                                | OpenVAS                   | [OpenVAS](https://www.openvas.org/) |
+|                                                | Nessus                    | [Nessus](https://www.tenable.com/products/nessus) |
+|                                                | Nexpose                   | [Nexpose](https://www.rapid7.com/products/nexpose/) |
+|                                                | QualysGuard               | [QualysGuard](https://www.qualys.com/) |
+|                                                | AppScan                   | [AppScan](https://www.hcl-software.com/security/appscan) |
+|                                                | GVM (Greenbone Vulnerability Management) | [GVM](https://www.greenbone.net/) |
+|                                                | Lynis                     | [Lynis](https://cisofy.com/lynis/) |
+|                                                | Retina                    | [Retina](https://retina234.rssing.com/chan-14983683/article50.html) |
+| **Password Cracking and Brute-Forcing**         |                           |                           |
+|                                                | Hydra                     | [Hydra](https://github.com/vanhauser-thc/thc-hydra) |
+|                                                | John the Ripper           | [John the Ripper](https://www.openwall.com/john/) |
+|                                                | Hashcat                   | [Hashcat](https://hashcat.net/hashcat/) |
+|                                                | Cain & Abel               | [Cain & Abel](http://www.oxid.it/cain.html) |
+|                                                | Ophcrack                  | [Ophcrack](https://ophcrack.sourceforge.io/) |
+|                                                | THC-Hydra                 | [THC-Hydra](https://github.com/vanhauser-thc/thc-hydra) |
+|                                                | Medusa                    | [Medusa](https://github.com/jmk-foofus/medusa) |
+| **Exploitation and Penetration Testing**        |                           |                           |
+|                                                | Metasploit Framework      | [Metasploit Framework](https://www.metasploit.com/) |
+|                                                | Core Impact               | [Core Impact](https://www.coresecurity.com/products/core-impact) |
+|                                                | Canvas                    | [Canvas](https://www.immunityinc.com/products/canvas/) |
+|                                                | Cobalt Strike             | [Cobalt Strike](https://www.cobaltstrike.com/) |
+|                                                | Empire                    | [Empire](https://github.com/BC-SECURITY/Empire) |
+|                                                | Beef                      | [Beef](https://beefproject.com/) |
+|                                                | Sparta                    | [Sparta](https://www.secforce.com/blog/sparta-a-network-infrastructure-penetration-testing-tool/) |
+| **Web Application Security Testing**            |                           |                           |
+|                                                | Sqlmap                    | [Sqlmap](https://sqlmap.org/) |
+|                                                | Burp Suite                | [Burp Suite](https://portswigger.net/burp) |
+|                                                | OWASP ZAP (Zed Attack Proxy) | [OWASP ZAP](https://www.zaproxy.org/) |
+|                                                | Skipfish                  | [Skipfish](https://github.com/spinkham/skipfish) |
+|                                                | Vega                      | [Vega](https://subgraph.com/vega/) |
+|                                                | AppSpider                 | [AppSpider](https://www.rapid7.com/products/appspider/) |
+|                                                | Arachni                   | [Arachni](https://ecsypno.com/pages/arachni-web-application-security-scanner-framework) |
+|                                                | W3AF                      | [W3AF](https://w3af.org/) |
+| **Wireless Network Security**                   |                           |                           |
+|                                                | Aircrack-ng               | [Aircrack-ng](https://www.aircrack-ng.org/) |
+|                                                | Reaver                    | [Reaver](https://github.com/t6x/reaver-wps-fork-t6x) |
+| **Mobile Application Security**                |                           |                           |
+|                                                | MobSF (Mobile Security Framework) | [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) |
+|                                                | Frida                     | [Frida](https://frida.re/) |
+|                                                | Drozer                    | [Drozer](https://github.com/WithSecureLabs/drozer) |
+|                                                | Qark                      | [Qark](https://github.com/linkedin/qark) |
+|                                                | AndroBugs Framework       | [AndroBugs Framework](https://github.com/AndroBugs/AndroBugs_Framework) |
+|                                                | APKTool                   | [APKTool](https://apktool.org/) |
+| **Digital Forensics**                          |                           |                           |
+|                                                | Autopsy                   | [Autopsy](https://www.autopsy.com/) |
+|                                                | Volatility                | [Volatility](https://www.volatilityfoundation.org/) |
+|                                                | FTK (Forensic Toolkit)    | [FTK](https://www.exterro.com/forensic-toolkit) |
+|                                                | Sleuth Kit                | [Sleuth Kit](https://www.sleuthkit.org/) |
+|                                                | Foremost                  | [Foremost](https://foremost.sourceforge.net/) |
+|                                                | Guymager                  | [Guymager](https://guymager.sourceforge.io/) |
+|                                                | Scalpel                   | [Scalpel](https://github.com/sleuthkit/scalpel) |
+|                                                | Wireshark (For Network Forensics) | [Wireshark](https://www.wireshark.org/) |
+|                                                | Bulk Extractor            | [Bulk Extractor](https://github.com/simsong/bulk_extractor) |
+|                                                | CapAnalysis               | [CapAnalysis](https://github.com/xplico/CapAnalysis) |
+|                                                | Binwalk                   | [Binwalk](https://github.com/ReFirmLabs/binwalk) |
+| **Social Engineering and Phishing**            |                           |                           |
+|                                                | SET (Social-Engineer Toolkit) | [SET](https://github.com/trustedsec/social-engineer-toolkit) |
+|                                                | Beef                      | [Beef](https://beefproject.com/) |
+|                                                | Gophish                   | [Gophish](https://getgophish.com/) |
+|                                                | EvilGinx                  | [EvilGinx](https://github.com/kgretzky/evilginx2) |
+|                                                | SocialFish                | [SocialFish](https://github.com/UndeadSec/SocialFish) |
+|                                                | EvilURL                   | [EvilURL](https://github.com/UndeadSec/EvilURL) |
+
+**Imp. Note:** Please remember that URLs and tool details may change, so always ensure you are using the most up-to-date and legitimate source links. Report us if any update required.
