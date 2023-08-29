@@ -1475,4 +1475,34 @@ Our Cybersecurity Tool Guide, a compilation of 101+ indispensable tools, empower
 |                                                | SocialFish                | [SocialFish](https://github.com/UndeadSec/SocialFish) |
 |                                                | EvilURL                   | [EvilURL](https://github.com/UndeadSec/EvilURL) |
 
+
+More tool names, their purposes, and referral resource links:
+
+| **Tool Name**                    | **Purpose**                                                          | **Tool Link**                                 |
+|----------------------------------|----------------------------------------------------------------------|-----------------------------------------------|
+| FOCA                             | Metadata analysis tool for identifying information leaks in documents | [FOCA](https://github.com/ElevenPaths/FOCA)  |
+| KNOCK                            | Port scanner used for discovering and enumerating open ports         | [KNOCK](https://github.com/guelfoweb/knock)  |
+| WHATWEB                          | Web scanner that identifies technologies used on websites            | [WHATWEB](https://github.com/urbanadventurer/WhatWeb) |
+| EYEWITNESS                       | Tool for taking screenshots of websites, services, and more          | [EYEWITNESS](https://github.com/FortyNorthSecurity/EyeWitness) |
+| GVM (Greenbone Vulnerability Management) | Open-source vulnerability scanning and management framework   | [GVM](https://www.greenbone.net/)            |
+| METASPLOIT                       | Penetration testing framework for exploiting vulnerabilities         | [METASPLOIT](https://www.metasploit.com/)    |
+| EXPLOITDB                        | Online collection of exploits and vulnerable software               | [EXPLOITDB](https://www.exploit-db.com/)     |
+| VEIL                             | Framework for generating and embedding Metasploit payloads          | [VEIL](https://github.com/Veil-Framework/Veil) |
+| UNICORN                          | Tool for creating Metasploit payloads with Unicorn                  | [UNICORN](https://github.com/trustedsec/unicorn) |
+| AUTOSPLOIT                       | Automated Metasploit script to exploit common vulnerabilities       | [AUTOSPLOIT](https://github.com/NullArray/AutoSploit) |
+| METASPLOIT COMMUNITY             | Open-source version of the Metasploit penetration testing framework | [METASPLOIT COMMUNITY](https://www.metasploitunleashed.com/) |
+| OWASP ZAP                        | Web application security scanner and vulnerability assessment tool  | [OWASP ZAP](https://www.zaproxy.org/)       |
+| NIKTO                            | Web server scanner that detects various vulnerabilities             | [NIKTO](https://cirt.net/Nikto2)            |
+| GRABBER                          | Web application scanner that detects file disclosure vulnerabilities | [GRABBER](https://github.com/Toolsley/Grabber) |
+| DIRBUSTER                        | Web server directory and file brute-forcing tool                    | [DIRBUSTER](https://tools.kali.org/web-applications/dirbuster) |
+| XSSER                            | Cross-Site Scripting (XSS) vulnerability scanner                   | [XSSER](https://github.com/epsylon/xsser)   |
+| COMMIX                           | Automated all-in-one OS command injection and exploitation tool    | [COMMIX](https://github.com/commixproject/commix) |
+| WAFWOOF                          | Web Application Firewall (WAF) detection tool                      | [WAFWOOF](https://github.com/EnableSecurity/wafw00f) |
+| WPSCAN                           | WordPress vulnerability scanner and enumeration tool               | [WPSCAN](https://wpscan.org/)               |
+| SECURITY                         | Web application vulnerability scanner for identifying security risks | [SECURITY](https://securitytrails.com/blog/security-tools/the-ultimate-list-of-security-tools) |
+| ANDROBUGS FRAMEWORK              | Framework for analyzing Android applications                       | [ANDROBUGS](https://github.com/AndroBugs/AndroBugs_Framework) |
+| DEX2JAR                          | Tool to convert Android .dex files to .jar files                   | [DEX2JAR](https://github.com/pxb1988/dex2jar) |
+| JADX                             | Decompiler for Android's .dex files                                 | [JADX](https://github.com/skylot/jadx)     |
+| HIDDENeyE                        | Extracts various artifacts from Android devices                     | [HIDDENeyE](https://github.com/D4Vinci/HiddenEye) |
+
 **Imp. Note:** Please remember that URLs and tool details may change, so always ensure you are using the most up-to-date and legitimate source links. Report us if any update required.
